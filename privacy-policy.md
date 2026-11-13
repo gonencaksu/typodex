@@ -30,4 +30,4 @@ If this policy changes, the updated version will be posted here with a new effec
 
 ## Contact
 
-gonenc@aksu.bio
+support@aksu.bio
